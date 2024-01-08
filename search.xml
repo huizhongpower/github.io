@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>PDF</title>
+      <link href="/posts/98579906.html"/>
+      <url>/posts/98579906.html</url>
+      
+        <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/demo.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ACDC</title>
       <link href="/posts/bf049f6.html"/>
       <url>/posts/bf049f6.html</url>
