@@ -6,7 +6,7 @@
   <link href="https://huizhongpower.github.io/atom.xml" rel="self"/>
   
   <link href="https://huizhongpower.github.io/"/>
-  <updated>2024-01-08T07:48:37.354Z</updated>
+  <updated>2024-01-08T08:41:11.273Z</updated>
   <id>https://huizhongpower.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://huizhongpower.github.io/posts/98579906.html"/>
     <id>https://huizhongpower.github.io/posts/98579906.html</id>
     <published>2024-01-08T07:47:11.000Z</published>
-    <updated>2024-01-08T07:48:37.354Z</updated>
+    <updated>2024-01-08T08:41:11.273Z</updated>
     
     <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/demo.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
@@ -40,6 +40,12 @@
     
     
     
+    
+    <category term="pdf" scheme="https://huizhongpower.github.io/tags/pdf/"/>
+    
+    <category term="AC" scheme="https://huizhongpower.github.io/tags/AC/"/>
+    
+    <category term="DC" scheme="https://huizhongpower.github.io/tags/DC/"/>
     
   </entry>
   
