@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>北京汇众电源</title>
   
-  <subtitle>北京汇众电源技术有限责任公司</subtitle>
-  <link href="https://huizhongpower.github.io/atom.xml" rel="self"/>
+  <subtitle>北京汇众电源</subtitle>
+  <link href="https://huizhong.com.cn/atom.xml" rel="self"/>
   
-  <link href="https://huizhongpower.github.io/"/>
+  <link href="https://huizhong.com.cn/"/>
   <updated>2024-01-08T08:41:11.273Z</updated>
-  <id>https://huizhongpower.github.io/</id>
+  <id>https://huizhong.com.cn/</id>
   
   <author>
     <name>Hale Lv</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>PDF</title>
-    <link href="https://huizhongpower.github.io/posts/98579906.html"/>
-    <id>https://huizhongpower.github.io/posts/98579906.html</id>
+    <link href="https://huizhong.com.cn/posts/98579906.html"/>
+    <id>https://huizhong.com.cn/posts/98579906.html</id>
     <published>2024-01-08T07:47:11.000Z</published>
     <updated>2024-01-08T08:41:11.273Z</updated>
     
@@ -41,18 +41,18 @@
     
     
     
-    <category term="pdf" scheme="https://huizhongpower.github.io/tags/pdf/"/>
+    <category term="pdf" scheme="https://huizhong.com.cn/tags/pdf/"/>
     
-    <category term="AC" scheme="https://huizhongpower.github.io/tags/AC/"/>
+    <category term="AC" scheme="https://huizhong.com.cn/tags/AC/"/>
     
-    <category term="DC" scheme="https://huizhongpower.github.io/tags/DC/"/>
+    <category term="DC" scheme="https://huizhong.com.cn/tags/DC/"/>
     
   </entry>
   
   <entry>
     <title>ACDC</title>
-    <link href="https://huizhongpower.github.io/posts/bf049f6.html"/>
-    <id>https://huizhongpower.github.io/posts/bf049f6.html</id>
+    <link href="https://huizhong.com.cn/posts/bf049f6.html"/>
+    <id>https://huizhong.com.cn/posts/bf049f6.html</id>
     <published>2023-12-28T06:43:19.000Z</published>
     <updated>2023-12-28T06:43:33.411Z</updated>
     
@@ -64,8 +64,8 @@
   
   <entry>
     <title>Git</title>
-    <link href="https://huizhongpower.github.io/posts/69c3279c.html"/>
-    <id>https://huizhongpower.github.io/posts/69c3279c.html</id>
+    <link href="https://huizhong.com.cn/posts/69c3279c.html"/>
+    <id>https://huizhong.com.cn/posts/69c3279c.html</id>
     <published>2023-12-21T01:20:46.000Z</published>
     <updated>2023-12-21T01:20:49.796Z</updated>
     
@@ -77,8 +77,8 @@
   
   <entry>
     <title>北京汇众</title>
-    <link href="https://huizhongpower.github.io/posts/404ced5b.html"/>
-    <id>https://huizhongpower.github.io/posts/404ced5b.html</id>
+    <link href="https://huizhong.com.cn/posts/404ced5b.html"/>
+    <id>https://huizhong.com.cn/posts/404ced5b.html</id>
     <published>2023-12-21T01:10:18.000Z</published>
     <updated>2023-12-21T01:10:26.798Z</updated>
     
@@ -90,8 +90,8 @@
   
   <entry>
     <title>北京汇众</title>
-    <link href="https://huizhongpower.github.io/posts/404ced5b.html"/>
-    <id>https://huizhongpower.github.io/posts/404ced5b.html</id>
+    <link href="https://huizhong.com.cn/posts/404ced5b.html"/>
+    <id>https://huizhong.com.cn/posts/404ced5b.html</id>
     <published>2023-12-21T01:03:24.000Z</published>
     <updated>2023-12-21T01:03:34.748Z</updated>
     
@@ -103,8 +103,8 @@
   
   <entry>
     <title>404</title>
-    <link href="https://huizhongpower.github.io/posts/22d15618.html"/>
-    <id>https://huizhongpower.github.io/posts/22d15618.html</id>
+    <link href="https://huizhong.com.cn/posts/22d15618.html"/>
+    <id>https://huizhong.com.cn/posts/22d15618.html</id>
     <published>2023-12-12T07:55:10.000Z</published>
     <updated>2023-12-12T08:07:03.911Z</updated>
     
@@ -116,8 +116,8 @@
   
   <entry>
     <title>HZ</title>
-    <link href="https://huizhongpower.github.io/posts/undefined.html"/>
-    <id>https://huizhongpower.github.io/posts/undefined.html</id>
+    <link href="https://huizhong.com.cn/posts/undefined.html"/>
+    <id>https://huizhong.com.cn/posts/undefined.html</id>
     <published>2023-11-29T06:07:47.000Z</published>
     <updated>2023-11-29T06:07:47.065Z</updated>
     
@@ -129,8 +129,8 @@
   
   <entry>
     <title>北京汇众电源</title>
-    <link href="https://huizhongpower.github.io/posts/e0b65d9a.html"/>
-    <id>https://huizhongpower.github.io/posts/e0b65d9a.html</id>
+    <link href="https://huizhong.com.cn/posts/e0b65d9a.html"/>
+    <id>https://huizhong.com.cn/posts/e0b65d9a.html</id>
     <published>2023-11-29T02:04:34.000Z</published>
     <updated>2023-12-12T08:07:03.916Z</updated>
     
@@ -138,14 +138,14 @@
     
     
     
-    <category term="news" scheme="https://huizhongpower.github.io/tags/news/"/>
+    <category term="news" scheme="https://huizhong.com.cn/tags/news/"/>
     
   </entry>
   
   <entry>
     <title>news</title>
-    <link href="https://huizhongpower.github.io/posts/1dd39950.html"/>
-    <id>https://huizhongpower.github.io/posts/1dd39950.html</id>
+    <link href="https://huizhong.com.cn/posts/1dd39950.html"/>
+    <id>https://huizhong.com.cn/posts/1dd39950.html</id>
     <published>2023-11-29T02:01:46.000Z</published>
     <updated>2023-12-12T08:07:03.914Z</updated>
     
@@ -166,8 +166,8 @@
   
   <entry>
     <title>联系方式</title>
-    <link href="https://huizhongpower.github.io/posts/b4011f8.html"/>
-    <id>https://huizhongpower.github.io/posts/b4011f8.html</id>
+    <link href="https://huizhong.com.cn/posts/b4011f8.html"/>
+    <id>https://huizhong.com.cn/posts/b4011f8.html</id>
     <published>2023-11-25T09:41:09.000Z</published>
     <updated>2023-12-12T08:07:03.917Z</updated>
     
@@ -179,8 +179,8 @@
   
   <entry>
     <title>直流电源</title>
-    <link href="https://huizhongpower.github.io/posts/8589dd99.html"/>
-    <id>https://huizhongpower.github.io/posts/8589dd99.html</id>
+    <link href="https://huizhong.com.cn/posts/8589dd99.html"/>
+    <id>https://huizhong.com.cn/posts/8589dd99.html</id>
     <published>2023-11-25T09:41:03.000Z</published>
     <updated>2023-12-12T08:07:03.917Z</updated>
     
@@ -192,8 +192,8 @@
   
   <entry>
     <title>交流电源</title>
-    <link href="https://huizhongpower.github.io/posts/92abde96.html"/>
-    <id>https://huizhongpower.github.io/posts/92abde96.html</id>
+    <link href="https://huizhong.com.cn/posts/92abde96.html"/>
+    <id>https://huizhong.com.cn/posts/92abde96.html</id>
     <published>2023-11-25T09:40:59.000Z</published>
     <updated>2023-12-12T08:07:03.915Z</updated>
     
@@ -205,8 +205,8 @@
   
   <entry>
     <title>最新产品</title>
-    <link href="https://huizhongpower.github.io/posts/12710fb.html"/>
-    <id>https://huizhongpower.github.io/posts/12710fb.html</id>
+    <link href="https://huizhong.com.cn/posts/12710fb.html"/>
+    <id>https://huizhong.com.cn/posts/12710fb.html</id>
     <published>2023-11-25T09:40:52.000Z</published>
     <updated>2023-12-12T08:07:03.916Z</updated>
     
@@ -218,8 +218,8 @@
   
   <entry>
     <title>CTF</title>
-    <link href="https://huizhongpower.github.io/posts/ccf5967e.html"/>
-    <id>https://huizhongpower.github.io/posts/ccf5967e.html</id>
+    <link href="https://huizhong.com.cn/posts/ccf5967e.html"/>
+    <id>https://huizhong.com.cn/posts/ccf5967e.html</id>
     <published>2023-11-24T10:51:03.000Z</published>
     <updated>2023-12-12T08:07:03.912Z</updated>
     
@@ -231,8 +231,8 @@
   
   <entry>
     <title>ArchLinux</title>
-    <link href="https://huizhongpower.github.io/posts/a9ed11e.html"/>
-    <id>https://huizhongpower.github.io/posts/a9ed11e.html</id>
+    <link href="https://huizhong.com.cn/posts/a9ed11e.html"/>
+    <id>https://huizhong.com.cn/posts/a9ed11e.html</id>
     <published>2023-11-24T10:50:55.000Z</published>
     <updated>2023-12-12T08:07:03.912Z</updated>
     
@@ -244,8 +244,8 @@
   
   <entry>
     <title>Unix</title>
-    <link href="https://huizhongpower.github.io/posts/753fef46.html"/>
-    <id>https://huizhongpower.github.io/posts/753fef46.html</id>
+    <link href="https://huizhong.com.cn/posts/753fef46.html"/>
+    <id>https://huizhong.com.cn/posts/753fef46.html</id>
     <published>2023-11-24T10:50:51.000Z</published>
     <updated>2023-12-12T08:07:03.913Z</updated>
     
@@ -257,8 +257,8 @@
   
   <entry>
     <title>Windows</title>
-    <link href="https://huizhongpower.github.io/posts/2c5abc07.html"/>
-    <id>https://huizhongpower.github.io/posts/2c5abc07.html</id>
+    <link href="https://huizhong.com.cn/posts/2c5abc07.html"/>
+    <id>https://huizhong.com.cn/posts/2c5abc07.html</id>
     <published>2023-11-24T10:50:30.000Z</published>
     <updated>2023-12-12T08:07:03.913Z</updated>
     
@@ -270,8 +270,8 @@
   
   <entry>
     <title>Mac</title>
-    <link href="https://huizhongpower.github.io/posts/2f5ead85.html"/>
-    <id>https://huizhongpower.github.io/posts/2f5ead85.html</id>
+    <link href="https://huizhong.com.cn/posts/2f5ead85.html"/>
+    <id>https://huizhong.com.cn/posts/2f5ead85.html</id>
     <published>2023-11-24T10:50:25.000Z</published>
     <updated>2023-12-12T08:07:03.914Z</updated>
     
@@ -283,8 +283,8 @@
   
   <entry>
     <title>Linux</title>
-    <link href="https://huizhongpower.github.io/posts/53d0684b.html"/>
-    <id>https://huizhongpower.github.io/posts/53d0684b.html</id>
+    <link href="https://huizhong.com.cn/posts/53d0684b.html"/>
+    <id>https://huizhong.com.cn/posts/53d0684b.html</id>
     <published>2023-11-24T10:50:20.000Z</published>
     <updated>2023-12-12T08:07:03.913Z</updated>
     
@@ -296,8 +296,8 @@
   
   <entry>
     <title>nginx</title>
-    <link href="https://huizhongpower.github.io/posts/a477be03.html"/>
-    <id>https://huizhongpower.github.io/posts/a477be03.html</id>
+    <link href="https://huizhong.com.cn/posts/a477be03.html"/>
+    <id>https://huizhong.com.cn/posts/a477be03.html</id>
     <published>2023-11-24T10:50:14.000Z</published>
     <updated>2023-12-12T08:07:03.914Z</updated>
     
