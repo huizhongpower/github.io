@@ -6,7 +6,7 @@
   <link href="https://huizhong.com.cn/atom.xml" rel="self"/>
   
   <link href="https://huizhong.com.cn/"/>
-  <updated>2024-03-13T07:12:33.214Z</updated>
+  <updated>2024-03-15T08:38:24.727Z</updated>
   <id>https://huizhong.com.cn/</id>
   
   <author>
@@ -17,31 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>最新产品</title>
-    <link href="https://huizhong.com.cn/[object%20Object]/2024/03/13/%E6%9C%80%E6%96%B0%E4%BA%A7%E5%93%81/"/>
-    <id>https://huizhong.com.cn/[object%20Object]/2024/03/13/%E6%9C%80%E6%96%B0%E4%BA%A7%E5%93%81/</id>
-    <published>2024-03-13T09:40:52.000Z</published>
-    <updated>2024-03-13T07:12:33.214Z</updated>
+    <title>PDF文档实现</title>
+    <link href="https://huizhong.com.cn/[object%20Object]/2024/03/15/PDF%E6%96%87%E6%A1%A3%E5%AE%9E%E7%8E%B0/"/>
+    <id>https://huizhong.com.cn/[object%20Object]/2024/03/15/PDF%E6%96%87%E6%A1%A3%E5%AE%9E%E7%8E%B0/</id>
+    <published>2024-03-15T07:54:55.000Z</published>
+    <updated>2024-03-15T08:38:24.727Z</updated>
     
-    <content type="html"><![CDATA[<p>​</p><p>联系方式：</p><table><thead><tr><th>联系人</th><th>联系电话</th><th>联系地址</th></tr></thead><tbody><tr><td>张三</td><td>123</td><td>北京市</td></tr><tr><td>李四</td><td>234</td><td>南京市</td></tr><tr><td>王五</td><td>345</td><td>上海市</td></tr></tbody></table><h2 id="PDF的实现"><a href="#PDF的实现" class="headerlink" title="PDF的实现"></a>PDF的实现</h2><hr><h3 id="提升速度的决策与策略"><a href="#提升速度的决策与策略" class="headerlink" title="提升速度的决策与策略"></a>提升速度的决策与策略</h3><p><img src="https://pic.imgdb.cn/item/656fe3f1c458853aef55a669.jpg" alt="pic" title="hi "></p><p><img src="https://pic.imgdb.cn/item/656fe3f1c458853aef55a669.jpg" alt="blockchain" title="区块链"></p><p><a href="https://huizhonggroup.github.io/">汇众集团</a><br><a href="https://huizhongpower.github.io/">汇众电源</a></p><p><a href="http://www.huizhong.com.cn" target="_blank">官网链接</a><br>汇众官网</p><ul><li>汇众电源</li><li>汇众集团</li><li>汇众基地</li></ul><ul><li>汇众电源</li><li>汇众集团</li><li>汇众基地</li></ul><ol><li>汇众电源</li><li>汇众集团</li><li>汇众基地</li></ol><p><code>hale new page</code> </p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">lscpu</span><br><span class="line">ls /proc/cpuinfo</span><br><span class="line">du -sh </span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><h5 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h5><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">flow</span><br><span class="line">st=&gt;start: 开始</span><br><span class="line">op=&gt;operation: My Operation</span><br><span class="line">cond=&gt;condition: Yes or No?</span><br><span class="line">e=&gt;end</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br><span class="line">&amp;</span><br></pre></td></tr></tbody></table></figure><h3 id="视频展示"><a href="#视频展示" class="headerlink" title="视频展示"></a>视频展示</h3><ul><li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,<br>viverra nec, fringilla in, laoreet vitae, risus.</li><li>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.<br>Suspendisse id sem consectetuer libero luctus adipiscing.</li></ul><ul><li>Bird</li><li>Magic</li></ul><p>Here is an example of AppleScript:</p>​<pre><code>tell application "Foo"    beepend tell</code></pre><hr><hr><h2 id="​-​-​-​"><a href="#​-​-​-​" class="headerlink" title="​***​*****​- - -​"></a>​<br>***<br>​<br>*****<br>​<br>- - -<br>​</h2>]]></content>
+    <content type="html"><![CDATA[<div class="row">    <embed src="https://online.fliphtml5.com/ysghj/wgwn/" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;​&lt;/p&gt;
-&lt;p&gt;联系方式：&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;联系人&lt;/th&gt;
-&lt;th&gt;联系电话&lt;/th&gt;
-&lt;th&gt;联系地址&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;张三&lt;/td&gt;
-&lt;td&gt;123&lt;/td&gt;
-&lt;td&gt;</summary>
+    <summary type="html">&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;https://online.fliphtml5.com/ysghj/wgwn/&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+	&lt;/div&gt;
+
+
+</summary>
       
     
     
@@ -50,23 +42,62 @@
   </entry>
   
   <entry>
-    <title>ac/dc</title>
+    <title>最新产品</title>
+    <link href="https://huizhong.com.cn/[object%20Object]/2024/03/13/%E6%9C%80%E6%96%B0%E4%BA%A7%E5%93%81/"/>
+    <id>https://huizhong.com.cn/[object%20Object]/2024/03/13/%E6%9C%80%E6%96%B0%E4%BA%A7%E5%93%81/</id>
+    <published>2024-03-13T09:40:52.000Z</published>
+    <updated>2024-03-15T08:41:34.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>​</p><div class="row">    <embed src="/pdf/demo.pdf" width="100%" height="550" type="application/pdf"></div><p>联系方式：</p><table><thead><tr><th>联系人</th><th>联系电话</th><th>联系地址</th></tr></thead><tbody><tr><td>张三</td><td>123</td><td>北京市</td></tr><tr><td>李四</td><td>234</td><td>南京市</td></tr><tr><td>王五</td><td>345</td><td>上海市</td></tr></tbody></table><h2 id="PDF的实现"><a href="#PDF的实现" class="headerlink" title="PDF的实现"></a>PDF的实现</h2><hr><h3 id="提升速度的决策与策略"><a href="#提升速度的决策与策略" class="headerlink" title="提升速度的决策与策略"></a>提升速度的决策与策略</h3><p><img src="https://pic.imgdb.cn/item/656fe3f1c458853aef55a669.jpg" alt="pic" title="hi "></p><p><img src="https://pic.imgdb.cn/item/656fe3f1c458853aef55a669.jpg" alt="blockchain" title="区块链"></p><p><a href="https://huizhonggroup.github.io/">汇众集团</a><br><a href="https://huizhongpower.github.io/">汇众电源</a></p><p><a href="http://www.huizhong.com.cn" target="_blank">官网链接</a><br>汇众官网</p><ul><li>汇众电源</li><li>汇众集团</li><li>汇众基地</li></ul><ul><li>汇众电源</li><li>汇众集团</li><li>汇众基地</li></ul><ol><li>汇众电源</li><li>汇众集团</li><li>汇众基地</li></ol><p><code>hale new page</code> </p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">lscpu</span><br><span class="line">ls /proc/cpuinfo</span><br><span class="line">du -sh </span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><h5 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h5><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">flow</span><br><span class="line">st=&gt;start: 开始</span><br><span class="line">op=&gt;operation: My Operation</span><br><span class="line">cond=&gt;condition: Yes or No?</span><br><span class="line">e=&gt;end</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br><span class="line">&amp;</span><br></pre></td></tr></tbody></table></figure><h3 id="视频展示"><a href="#视频展示" class="headerlink" title="视频展示"></a>视频展示</h3><ul><li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,<br>viverra nec, fringilla in, laoreet vitae, risus.</li><li>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.<br>Suspendisse id sem consectetuer libero luctus adipiscing.</li></ul><ul><li>Bird</li><li>Magic</li></ul><p>Here is an example of AppleScript:</p>​<pre><code>tell application "Foo"    beepend tell</code></pre><hr><hr><h2 id="​-​-​-​"><a href="#​-​-​-​" class="headerlink" title="​***​*****​- - -​"></a>​<br>***<br>​<br>*****<br>​<br>- - -<br>​</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;​&lt;/p&gt;
+
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;/pdf/demo.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+	&lt;/div&gt;
+
+
+
+
+
+
+&lt;p&gt;联系方式：&lt;/p&gt;
+&lt;t</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>DC-DC 电源模块 HZD20B 系列</title>
     <link href="https://huizhong.com.cn/[object%20Object]/2024/03/13/ac-dc-0/"/>
     <id>https://huizhong.com.cn/[object%20Object]/2024/03/13/ac-dc-0/</id>
     <published>2024-03-13T00:28:55.000Z</published>
-    <updated>2024-03-13T04:59:40.759Z</updated>
+    <updated>2024-03-18T01:36:06.719Z</updated>
     
-    <content type="html"><![CDATA[<p>推荐产品首页轮播效果</p>]]></content>
+    <content type="html"><![CDATA[<p>DC-DC 电源模块 HZD20B 系列 说明书</p><div class="row">    <embed src="/pdf/20B2-1系列.pdf" width="100%" height="550" type="application/pdf"></div><div class="row">    <embed src="https://halelv.lanzoum.com/iCE041rrx0va" width="100%" height="550" type="application/pdf"></div><div class="row">    <embed src="https://online.fliphtml5.com/ysghj/zudg/" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;推荐产品首页轮播效果&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;DC-DC 电源模块 HZD20B 系列 说明书&lt;/p&gt;
+
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;/pdf/20B2-1系列.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+	&lt;</summary>
       
     
     
     
+    
+    <category term="DC-DC 电源模块 HZD20B 系列" scheme="https://huizhong.com.cn/tags/DC-DC-%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97-HZD20B-%E7%B3%BB%E5%88%97/"/>
     
   </entry>
   
@@ -314,19 +345,6 @@
     <id>https://huizhong.com.cn/[object%20Object]/2023/11/24/Mac/</id>
     <published>2023-11-24T10:50:25.000Z</published>
     <updated>2023-12-12T08:07:03.914Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Linux</title>
-    <link href="https://huizhong.com.cn/[object%20Object]/2023/11/24/Linux/"/>
-    <id>https://huizhong.com.cn/[object%20Object]/2023/11/24/Linux/</id>
-    <published>2023-11-24T10:50:20.000Z</published>
-    <updated>2023-12-12T08:07:03.913Z</updated>
     
     
     
