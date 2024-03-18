@@ -1,405 +1,321 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>PDF文档实现</title>
-      <link href="//%5Bobject%20Object%5D/2024/03/15/PDF%E6%96%87%E6%A1%A3%E5%AE%9E%E7%8E%B0/"/>
-      <url>//%5Bobject%20Object%5D/2024/03/15/PDF%E6%96%87%E6%A1%A3%E5%AE%9E%E7%8E%B0/</url>
-      
-        <content type="html"><![CDATA[<div class="row">    <embed src="https://online.fliphtml5.com/ysghj/wgwn/" width="100%" height="550" type="application/pdf"></div>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>最新产品</title>
-      <link href="//%5Bobject%20Object%5D/2024/03/13/%E6%9C%80%E6%96%B0%E4%BA%A7%E5%93%81/"/>
-      <url>//%5Bobject%20Object%5D/2024/03/13/%E6%9C%80%E6%96%B0%E4%BA%A7%E5%93%81/</url>
-      
-        <content type="html"><![CDATA[<p>​</p><div class="row">    <embed src="/pdf/demo.pdf" width="100%" height="550" type="application/pdf"></div><p>联系方式：</p><table><thead><tr><th>联系人</th><th>联系电话</th><th>联系地址</th></tr></thead><tbody><tr><td>张三</td><td>123</td><td>北京市</td></tr><tr><td>李四</td><td>234</td><td>南京市</td></tr><tr><td>王五</td><td>345</td><td>上海市</td></tr></tbody></table><h2 id="PDF的实现"><a href="#PDF的实现" class="headerlink" title="PDF的实现"></a>PDF的实现</h2><hr><h3 id="提升速度的决策与策略"><a href="#提升速度的决策与策略" class="headerlink" title="提升速度的决策与策略"></a>提升速度的决策与策略</h3><p><img src="https://pic.imgdb.cn/item/656fe3f1c458853aef55a669.jpg" alt="pic" title="hi "></p><p><img src="https://pic.imgdb.cn/item/656fe3f1c458853aef55a669.jpg" alt="blockchain" title="区块链"></p><p><a href="https://huizhonggroup.github.io/">汇众集团</a><br><a href="https://huizhongpower.github.io/">汇众电源</a></p><p><a href="http://www.huizhong.com.cn" target="_blank">官网链接</a><br>汇众官网</p><ul><li>汇众电源</li><li>汇众集团</li><li>汇众基地</li></ul><ul><li>汇众电源</li><li>汇众集团</li><li>汇众基地</li></ul><ol><li>汇众电源</li><li>汇众集团</li><li>汇众基地</li></ol><p><code>hale new page</code> </p><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">lscpu</span><br><span class="line">ls /proc/cpuinfo</span><br><span class="line">du -sh </span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure><h5 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h5><figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">flow</span><br><span class="line">st=&gt;start: 开始</span><br><span class="line">op=&gt;operation: My Operation</span><br><span class="line">cond=&gt;condition: Yes or No?</span><br><span class="line">e=&gt;end</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br><span class="line">&amp;</span><br></pre></td></tr></tbody></table></figure><h3 id="视频展示"><a href="#视频展示" class="headerlink" title="视频展示"></a>视频展示</h3><ul><li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,<br>viverra nec, fringilla in, laoreet vitae, risus.</li><li>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.<br>Suspendisse id sem consectetuer libero luctus adipiscing.</li></ul><ul><li>Bird</li><li>Magic</li></ul><p>Here is an example of AppleScript:</p>​<pre><code>tell application "Foo"    beepend tell</code></pre><hr><hr><h2 id="​-​-​-​"><a href="#​-​-​-​" class="headerlink" title="​***​*****​- - -​"></a>​<br>***<br>​<br>*****<br>​<br>- - -<br>​</h2>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>DC-DC 电源模块 HZD20B 系列</title>
-      <link href="//%5Bobject%20Object%5D/2024/03/13/ac-dc-0/"/>
-      <url>//%5Bobject%20Object%5D/2024/03/13/ac-dc-0/</url>
-      
-        <content type="html"><![CDATA[<h3 id="DC-DC-电源模块-HZD20B-系列-说明书"><a href="#DC-DC-电源模块-HZD20B-系列-说明书" class="headerlink" title="DC-DC 电源模块 HZD20B 系列 说明书"></a>DC-DC 电源模块 HZD20B 系列 说明书</h3><hr><blockquote><p>HZD20B系列电源模块额定输出功率为20W,外形尺寸为1″(inch)×1″(inch)×0.4″(inch),可应用于2:1电压输入范围9V-18V、18V-36V、36V-72V的输入电压环境，输出电压精度可达±1%,具有输出过流保护、输出过压保护、输出短路保护、输出过压保护并支持长时间短路保护等功能。广泛应用于航空、航天、船舶、兵器、通信、电力、铁路、自动化以及仪器仪表等行业。此系列产品具备军温级及无铅（ROHS）工艺的产品。</p></blockquote><h4 id="在线阅读PDF文档-样式一"><a href="#在线阅读PDF文档-样式一" class="headerlink" title="在线阅读PDF文档 样式一"></a>在线阅读PDF文档 样式一</h4><div class="row">    <embed src="/pdf/20B2-1系列.pdf" width="100%" height="550" type="application/pdf"></div><h4 id="在线阅读PDF文档-样式二"><a href="#在线阅读PDF文档-样式二" class="headerlink" title="在线阅读PDF文档 样式二"></a>在线阅读PDF文档 样式二</h4><div class="row">    <embed src="https://online.fliphtml5.com/ysghj/zudg/" width="100%" height="550" type="application/pdf"></div><h4 id="在线下载PDF文档-样式一："><a href="#在线下载PDF文档-样式一：" class="headerlink" title="在线下载PDF文档 样式一："></a>在线下载PDF文档 样式一：</h4><p><a href="https://halelv.lanzoum.com/iCE041rrx0va">PDF在线下载地址：</a> </p><h4 id="在线下载PDF文档-样式一：-1"><a href="#在线下载PDF文档-样式一：-1" class="headerlink" title="在线下载PDF文档 样式一："></a>在线下载PDF文档 样式一：</h4><div class="row">    <embed src="https://halelv.lanzoum.com/iCE041rrx0va" width="100%" height="550" type="application/pdf"></div>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> DC-DC 电源模块 HZD20B 系列 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>PDF</title>
-      <link href="//%5Bobject%20Object%5D/2024/01/08/PDF/"/>
-      <url>//%5Bobject%20Object%5D/2024/01/08/PDF/</url>
-      
-        <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/demo.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> pdf </tag>
-            
-            <tag> AC </tag>
-            
-            <tag> DC </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ACDC</title>
-      <link href="//%5Bobject%20Object%5D/2023/12/28/ACDC/"/>
-      <url>//%5Bobject%20Object%5D/2023/12/28/ACDC/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Git</title>
-      <link href="//%5Bobject%20Object%5D/2023/12/21/Git/"/>
-      <url>//%5Bobject%20Object%5D/2023/12/21/Git/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>北京汇众</title>
-      <link href="//%5Bobject%20Object%5D/2023/12/21/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97-1/"/>
-      <url>//%5Bobject%20Object%5D/2023/12/21/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97-1/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>北京汇众</title>
-      <link href="//%5Bobject%20Object%5D/2023/12/21/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97/"/>
-      <url>//%5Bobject%20Object%5D/2023/12/21/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>404</title>
-      <link href="//%5Bobject%20Object%5D/2023/12/12/404/"/>
-      <url>//%5Bobject%20Object%5D/2023/12/12/404/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>HZ</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/29/HZ/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/29/HZ/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>北京汇众电源</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/29/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97%E7%94%B5%E6%BA%90/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/29/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97%E7%94%B5%E6%BA%90/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> news </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>news</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/29/news/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/29/news/</url>
-      
-        <content type="html"><![CDATA[<p>首页宣传页面设计</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>联系方式</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/25/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/25/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>直流电源</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/25/%E7%9B%B4%E6%B5%81%E7%94%B5%E6%BA%90/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/25/%E7%9B%B4%E6%B5%81%E7%94%B5%E6%BA%90/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>交流电源</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/25/%E4%BA%A4%E6%B5%81%E7%94%B5%E6%BA%90/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/25/%E4%BA%A4%E6%B5%81%E7%94%B5%E6%BA%90/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>CTF</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/CTF/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/CTF/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ArchLinux</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/ArchLinux/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/ArchLinux/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Unix</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/Unix/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/Unix/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Windows</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/Windows/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/Windows/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Mac</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/Mac/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/Mac/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Linux</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/Linux/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/Linux/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>nginx</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/nginx/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/nginx/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>power</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/power/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/power/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>产品</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/%E4%BA%A7%E5%93%81/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/%E4%BA%A7%E5%93%81/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ACDC产品推荐</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/AC-DC/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/AC-DC/</url>
-      
-        <content type="html"><![CDATA[<table><thead><tr><th>表头</th><th align="center">表头</th><th align="right">表头</th><th align="center">表头</th><th align="center">表头</th></tr></thead><tbody><tr><td>内容</td><td align="center">内容</td><td align="right">内容</td><td align="center">内容</td><td align="center"></td></tr><tr><td>内容</td><td align="center">内容</td><td align="right">内容</td><td align="center">内容</td><td align="center"></td></tr></tbody></table><p>第二行分割表头和内容。</p><ul><li>有一个就行，为了对齐，多加了几个<br>文字默认居左<br>-两边加：表示文字居中<br>-右边加：表示文字居右<br>注：原生的语法两边都要用 | 包起来。此处省略</li></ul><p><img src="https://pic.imgdb.cn/item/656fe3f2c458853aef55a938.jpg" alt="产品图片"></p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>404</title>
+    <url>//%5Bobject%20Object%5D/2023/12/12/404/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>ACDC产品推荐</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/AC-DC/</url>
+    <content><![CDATA[<table>
+<thead>
+<tr>
+<th>表头</th>
+<th align="center">表头</th>
+<th align="right">表头</th>
+<th align="center">表头</th>
+<th align="center">表头</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>内容</td>
+<td align="center">内容</td>
+<td align="right">内容</td>
+<td align="center">内容</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td>内容</td>
+<td align="center">内容</td>
+<td align="right">内容</td>
+<td align="center">内容</td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+<p>第二行分割表头和内容。</p>
+<ul>
+<li>有一个就行，为了对齐，多加了几个<br>文字默认居左<br>-两边加：表示文字居中<br>-右边加：表示文字居右<br>注：原生的语法两边都要用 | 包起来。此处省略</li>
+</ul>
+<p><img src="https://pic.imgdb.cn/item/656fe3f2c458853aef55a938.jpg" alt="产品图片"></p>
+]]></content>
       <categories>
-          
-          <category> AC </category>
-          
+        <category>AC</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> AC/DC </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>公司新闻</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/24/%E5%85%AC%E5%8F%B8%E6%96%B0%E9%97%BB/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/24/%E5%85%AC%E5%8F%B8%E6%96%B0%E9%97%BB/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>page</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/23/page/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/23/page/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>about</title>
-      <link href="//%5Bobject%20Object%5D/2023/11/23/about/"/>
-      <url>//%5Bobject%20Object%5D/2023/11/23/about/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>AC/DC</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ACDC</title>
+    <url>//%5Bobject%20Object%5D/2023/12/28/ACDC/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>ArchLinux</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/ArchLinux/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>CTF</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/CTF/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Git</title>
+    <url>//%5Bobject%20Object%5D/2023/12/21/Git/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>HZ</title>
+    <url>//%5Bobject%20Object%5D/2023/11/29/HZ/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Linux</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/Linux/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Mac</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/Mac/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Unix</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/Unix/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>PDF</title>
+    <url>//%5Bobject%20Object%5D/2024/01/08/PDF/</url>
+    <content><![CDATA[<div class="row">
+    <embed src="/pdf/demo.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+
+]]></content>
+      <tags>
+        <tag>pdf</tag>
+        <tag>AC</tag>
+        <tag>DC</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Windows</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/Windows/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>about</title>
+    <url>//%5Bobject%20Object%5D/2023/11/23/about/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>PDF文档实现</title>
+    <url>//%5Bobject%20Object%5D/2024/03/15/PDF%E6%96%87%E6%A1%A3%E5%AE%9E%E7%8E%B0/</url>
+    <content><![CDATA[<div class="row">
+    <embed src="https://online.fliphtml5.com/ysghj/wgwn/" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>DC-DC 电源模块 HZD20B 系列</title>
+    <url>//%5Bobject%20Object%5D/2024/03/18/ac-dc-0/</url>
+    <content><![CDATA[<h3 id="DC-DC-电源模块-HZD20B-系列-说明书"><a href="#DC-DC-电源模块-HZD20B-系列-说明书" class="headerlink" title="DC-DC 电源模块 HZD20B 系列 说明书"></a>DC-DC 电源模块 HZD20B 系列 说明书</h3><hr>
+<blockquote>
+<p>HZD20B系列电源模块额定输出功率为20W,外形尺寸为1″(inch)×1″(inch)×0.4″(inch),可应用于2:1电压输入范围9V-18V、18V-36V、36V-72V的输入电压环境，输出电压精度可达±1%,具有输出过流保护、输出过压保护、输出短路保护、输出过压保护并支持长时间短路保护等功能。广泛应用于航空、航天、船舶、兵器、通信、电力、铁路、自动化以及仪器仪表等行业。此系列产品具备军温级及无铅（ROHS）工艺的产品。</p>
+</blockquote>
+<h4 id="在线阅读PDF文档-样式一"><a href="#在线阅读PDF文档-样式一" class="headerlink" title="在线阅读PDF文档 样式一"></a>在线阅读PDF文档 样式一</h4>
+
+	<div class="row">
+    <embed src="/pdf/20B2-1系列.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+
+<h4 id="在线阅读PDF文档-样式二"><a href="#在线阅读PDF文档-样式二" class="headerlink" title="在线阅读PDF文档 样式二"></a>在线阅读PDF文档 样式二</h4>
+
+	<div class="row">
+    <embed src="https://online.fliphtml5.com/ysghj/zudg/" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+
+
+<h4 id="在线下载PDF文档-样式一："><a href="#在线下载PDF文档-样式一：" class="headerlink" title="在线下载PDF文档 样式一："></a>在线下载PDF文档 样式一：</h4><p><a href="https://halelv.lanzoum.com/iCE041rrx0va">PDF在线下载地址：</a> </p>
+<h4 id="在线下载PDF文档-样式一：-1"><a href="#在线下载PDF文档-样式一：-1" class="headerlink" title="在线下载PDF文档 样式一："></a>在线下载PDF文档 样式一：</h4>
+
+	<div class="row">
+    <embed src="https://halelv.lanzoum.com/iCE041rrx0va" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+
+
+]]></content>
+      <tags>
+        <tag>DC-DC 电源模块 HZD20B 系列</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>最新新闻</title>
+    <url>//%5Bobject%20Object%5D/2023/11/29/news/</url>
+    <content><![CDATA[<p>首页宣传页面设计</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>nginx</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/nginx/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>page</title>
+    <url>//%5Bobject%20Object%5D/2023/11/23/page/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>power</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/power/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>交流电源</title>
+    <url>//%5Bobject%20Object%5D/2023/11/25/%E4%BA%A4%E6%B5%81%E7%94%B5%E6%BA%90/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>产品</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/%E4%BA%A7%E5%93%81/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>公司新闻</title>
+    <url>//%5Bobject%20Object%5D/2023/11/24/%E5%85%AC%E5%8F%B8%E6%96%B0%E9%97%BB/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>北京汇众</title>
+    <url>//%5Bobject%20Object%5D/2023/12/21/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97-1/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>北京汇众</title>
+    <url>//%5Bobject%20Object%5D/2023/12/21/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>汇众电源</title>
+    <url>//%5Bobject%20Object%5D/2024/02/26/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97%E7%94%B5%E6%BA%90/</url>
+    <content><![CDATA[<p>企业介绍</p>
+]]></content>
+      <tags>
+        <tag>news</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>直流电源</title>
+    <url>//%5Bobject%20Object%5D/2023/11/25/%E7%9B%B4%E6%B5%81%E7%94%B5%E6%BA%90/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>最新产品</title>
+    <url>//%5Bobject%20Object%5D/2024/03/13/%E6%9C%80%E6%96%B0%E4%BA%A7%E5%93%81/</url>
+    <content><![CDATA[<p>​</p>
+
+
+	<div class="row">
+    <embed src="/pdf/demo.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+
+
+
+<p>联系方式：</p>
+<table>
+<thead>
+<tr>
+<th>联系人</th>
+<th>联系电话</th>
+<th>联系地址</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>张三</td>
+<td>123</td>
+<td>北京市</td>
+</tr>
+<tr>
+<td>李四</td>
+<td>234</td>
+<td>南京市</td>
+</tr>
+<tr>
+<td>王五</td>
+<td>345</td>
+<td>上海市</td>
+</tr>
+</tbody></table>
+<h2 id="PDF的实现"><a href="#PDF的实现" class="headerlink" title="PDF的实现"></a>PDF的实现</h2><hr>
+<h3 id="提升速度的决策与策略"><a href="#提升速度的决策与策略" class="headerlink" title="提升速度的决策与策略"></a>提升速度的决策与策略</h3><p><img src="https://pic.imgdb.cn/item/656fe3f1c458853aef55a669.jpg" alt="pic" title="hi "></p>
+<p><img src="https://pic.imgdb.cn/item/656fe3f1c458853aef55a669.jpg" alt="blockchain" title="区块链"></p>
+<p><a href="https://huizhonggroup.github.io/">汇众集团</a><br><a href="https://huizhongpower.github.io/">汇众电源</a></p>
+<p><a href="http://www.huizhong.com.cn" target="_blank">官网链接</a><br>汇众官网</p>
+<ul>
+<li>汇众电源</li>
+<li>汇众集团</li>
+<li>汇众基地</li>
+</ul>
+<ul>
+<li>汇众电源</li>
+<li>汇众集团</li>
+<li>汇众基地</li>
+</ul>
+<ol>
+<li>汇众电源</li>
+<li>汇众集团</li>
+<li>汇众基地</li>
+</ol>
+<p><code>hale new page</code> </p>
+<figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">lscpu</span><br><span class="line">ls /proc/cpuinfo</span><br><span class="line">du -sh </span><br><span class="line"></span><br></pre></td></tr></tbody></table></figure>
+<h5 id="流程图"><a href="#流程图" class="headerlink" title="流程图"></a>流程图</h5><figure class="highlight plaintext"><table><tbody><tr><td class="code"><pre><span class="line">flow</span><br><span class="line">st=&gt;start: 开始</span><br><span class="line">op=&gt;operation: My Operation</span><br><span class="line">cond=&gt;condition: Yes or No?</span><br><span class="line">e=&gt;end</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;e</span><br><span class="line">cond(no)-&gt;op</span><br><span class="line">&amp;</span><br></pre></td></tr></tbody></table></figure>
+
+
+
+<h3 id="视频展示"><a href="#视频展示" class="headerlink" title="视频展示"></a>视频展示</h3><ul>
+<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.<br>Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,<br>viverra nec, fringilla in, laoreet vitae, risus.</li>
+<li>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.<br>Suspendisse id sem consectetuer libero luctus adipiscing.</li>
+</ul>
+<ul>
+<li>Bird</li>
+<li>Magic</li>
+</ul>
+
+<p>Here is an example of AppleScript:</p>
+​
+<pre><code>tell application "Foo"
+    beep
+end tell
+</code></pre>
+
+
+
+<hr>
+<hr>
+<h2 id="​-​-​-​"><a href="#​-​-​-​" class="headerlink" title="​***​*****​- - -​"></a>​<br>***<br>​<br>*****<br>​<br>- - -<br>​</h2>]]></content>
+  </entry>
+  <entry>
+    <title>联系方式</title>
+    <url>//%5Bobject%20Object%5D/2023/11/25/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</url>
+    <content><![CDATA[]]></content>
+  </entry>
 </search>

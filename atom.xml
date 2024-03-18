@@ -6,7 +6,7 @@
   <link href="https://huizhong.com.cn/atom.xml" rel="self"/>
   
   <link href="https://huizhong.com.cn/"/>
-  <updated>2024-03-15T08:38:24.727Z</updated>
+  <updated>2024-03-18T02:55:32.944Z</updated>
   <id>https://huizhong.com.cn/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DC-DC 电源模块 HZD20B 系列</title>
+    <link href="https://huizhong.com.cn/[object%20Object]/2024/03/18/ac-dc-0/"/>
+    <id>https://huizhong.com.cn/[object%20Object]/2024/03/18/ac-dc-0/</id>
+    <published>2024-03-18T00:28:55.000Z</published>
+    <updated>2024-03-18T02:55:32.944Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="DC-DC-电源模块-HZD20B-系列-说明书"><a href="#DC-DC-电源模块-HZD20B-系列-说明书" class="headerlink" title="DC-DC 电源模块 HZD20B 系列 说明书"></a>DC-DC 电源模块 HZD20B 系列 说明书</h3><hr><blockquote><p>HZD20B系列电源模块额定输出功率为20W,外形尺寸为1″(inch)×1″(inch)×0.4″(inch),可应用于2:1电压输入范围9V-18V、18V-36V、36V-72V的输入电压环境，输出电压精度可达±1%,具有输出过流保护、输出过压保护、输出短路保护、输出过压保护并支持长时间短路保护等功能。广泛应用于航空、航天、船舶、兵器、通信、电力、铁路、自动化以及仪器仪表等行业。此系列产品具备军温级及无铅（ROHS）工艺的产品。</p></blockquote><h4 id="在线阅读PDF文档-样式一"><a href="#在线阅读PDF文档-样式一" class="headerlink" title="在线阅读PDF文档 样式一"></a>在线阅读PDF文档 样式一</h4><div class="row">    <embed src="/pdf/20B2-1系列.pdf" width="100%" height="550" type="application/pdf"></div><h4 id="在线阅读PDF文档-样式二"><a href="#在线阅读PDF文档-样式二" class="headerlink" title="在线阅读PDF文档 样式二"></a>在线阅读PDF文档 样式二</h4><div class="row">    <embed src="https://online.fliphtml5.com/ysghj/zudg/" width="100%" height="550" type="application/pdf"></div><h4 id="在线下载PDF文档-样式一："><a href="#在线下载PDF文档-样式一：" class="headerlink" title="在线下载PDF文档 样式一："></a>在线下载PDF文档 样式一：</h4><p><a href="https://halelv.lanzoum.com/iCE041rrx0va">PDF在线下载地址：</a> </p><h4 id="在线下载PDF文档-样式一：-1"><a href="#在线下载PDF文档-样式一：-1" class="headerlink" title="在线下载PDF文档 样式一："></a>在线下载PDF文档 样式一：</h4><div class="row">    <embed src="https://halelv.lanzoum.com/iCE041rrx0va" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;DC-DC-电源模块-HZD20B-系列-说明书&quot;&gt;&lt;a href=&quot;#DC-DC-电源模块-HZD20B-系列-说明书&quot; class=&quot;headerlink&quot; title=&quot;DC-DC 电源模块 HZD20B 系列 说明书&quot;&gt;&lt;/a&gt;DC-DC 电源模块 HZD</summary>
+      
+    
+    
+    
+    
+    <category term="DC-DC 电源模块 HZD20B 系列" scheme="https://huizhong.com.cn/tags/DC-DC-%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97-HZD20B-%E7%B3%BB%E5%88%97/"/>
+    
+  </entry>
   
   <entry>
     <title>PDF文档实现</title>
@@ -75,24 +97,25 @@
   </entry>
   
   <entry>
-    <title>DC-DC 电源模块 HZD20B 系列</title>
-    <link href="https://huizhong.com.cn/[object%20Object]/2024/03/13/ac-dc-0/"/>
-    <id>https://huizhong.com.cn/[object%20Object]/2024/03/13/ac-dc-0/</id>
-    <published>2024-03-13T00:28:55.000Z</published>
-    <updated>2024-03-18T02:50:03.141Z</updated>
+    <title>汇众电源</title>
+    <link href="https://huizhong.com.cn/[object%20Object]/2024/02/26/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97%E7%94%B5%E6%BA%90/"/>
+    <id>https://huizhong.com.cn/[object%20Object]/2024/02/26/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97%E7%94%B5%E6%BA%90/</id>
+    <published>2024-02-26T02:04:34.000Z</published>
+    <updated>2024-03-18T02:54:14.529Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="DC-DC-电源模块-HZD20B-系列-说明书"><a href="#DC-DC-电源模块-HZD20B-系列-说明书" class="headerlink" title="DC-DC 电源模块 HZD20B 系列 说明书"></a>DC-DC 电源模块 HZD20B 系列 说明书</h3><hr><blockquote><p>HZD20B系列电源模块额定输出功率为20W,外形尺寸为1″(inch)×1″(inch)×0.4″(inch),可应用于2:1电压输入范围9V-18V、18V-36V、36V-72V的输入电压环境，输出电压精度可达±1%,具有输出过流保护、输出过压保护、输出短路保护、输出过压保护并支持长时间短路保护等功能。广泛应用于航空、航天、船舶、兵器、通信、电力、铁路、自动化以及仪器仪表等行业。此系列产品具备军温级及无铅（ROHS）工艺的产品。</p></blockquote><h4 id="在线阅读PDF文档-样式一"><a href="#在线阅读PDF文档-样式一" class="headerlink" title="在线阅读PDF文档 样式一"></a>在线阅读PDF文档 样式一</h4><div class="row">    <embed src="/pdf/20B2-1系列.pdf" width="100%" height="550" type="application/pdf"></div><h4 id="在线阅读PDF文档-样式二"><a href="#在线阅读PDF文档-样式二" class="headerlink" title="在线阅读PDF文档 样式二"></a>在线阅读PDF文档 样式二</h4><div class="row">    <embed src="https://online.fliphtml5.com/ysghj/zudg/" width="100%" height="550" type="application/pdf"></div><h4 id="在线下载PDF文档-样式一："><a href="#在线下载PDF文档-样式一：" class="headerlink" title="在线下载PDF文档 样式一："></a>在线下载PDF文档 样式一：</h4><p><a href="https://halelv.lanzoum.com/iCE041rrx0va">PDF在线下载地址：</a> </p><h4 id="在线下载PDF文档-样式一：-1"><a href="#在线下载PDF文档-样式一：-1" class="headerlink" title="在线下载PDF文档 样式一："></a>在线下载PDF文档 样式一：</h4><div class="row">    <embed src="https://halelv.lanzoum.com/iCE041rrx0va" width="100%" height="550" type="application/pdf"></div>]]></content>
+    <content type="html"><![CDATA[<p>企业介绍</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;DC-DC-电源模块-HZD20B-系列-说明书&quot;&gt;&lt;a href=&quot;#DC-DC-电源模块-HZD20B-系列-说明书&quot; class=&quot;headerlink&quot; title=&quot;DC-DC 电源模块 HZD20B 系列 说明书&quot;&gt;&lt;/a&gt;DC-DC 电源模块 HZD</summary>
+    <summary type="html">&lt;p&gt;企业介绍&lt;/p&gt;
+</summary>
       
     
     
     
     
-    <category term="DC-DC 电源模块 HZD20B 系列" scheme="https://huizhong.com.cn/tags/DC-DC-%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97-HZD20B-%E7%B3%BB%E5%88%97/"/>
+    <category term="news" scheme="https://huizhong.com.cn/tags/news/"/>
     
   </entry>
   
@@ -208,26 +231,11 @@
   </entry>
   
   <entry>
-    <title>北京汇众电源</title>
-    <link href="https://huizhong.com.cn/[object%20Object]/2023/11/29/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97%E7%94%B5%E6%BA%90/"/>
-    <id>https://huizhong.com.cn/[object%20Object]/2023/11/29/%E5%8C%97%E4%BA%AC%E6%B1%87%E4%BC%97%E7%94%B5%E6%BA%90/</id>
-    <published>2023-11-29T02:04:34.000Z</published>
-    <updated>2023-12-12T08:07:03.916Z</updated>
-    
-    
-    
-    
-    
-    <category term="news" scheme="https://huizhong.com.cn/tags/news/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>news</title>
+    <title>最新新闻</title>
     <link href="https://huizhong.com.cn/[object%20Object]/2023/11/29/news/"/>
     <id>https://huizhong.com.cn/[object%20Object]/2023/11/29/news/</id>
     <published>2023-11-29T02:01:46.000Z</published>
-    <updated>2024-03-13T07:23:38.911Z</updated>
+    <updated>2024-03-18T02:53:01.474Z</updated>
     
     <content type="html"><![CDATA[<p>首页宣传页面设计</p>]]></content>
     
