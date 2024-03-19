@@ -54,7 +54,7 @@
 </iframe>
 
 
-<video width="800" height="480" controls="controls" autoplay="autoplay">
+<video width="800" height="480" controls="controls" autoplay="autoplay" loop="loop">
     <source src="https://assets.mixkit.co/videos/preview/mixkit-astronaut-in-a-space-suit-floating-slowly-through-space-above-45204-large.mp4" type="video/mp4">
 </video>
 
@@ -105,6 +105,11 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>Mac</title>
+    <url>/posts/20231124185025-2f5ead85.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>PDF</title>
     <url>/posts/20240108154711-98579906.html</url>
     <content><![CDATA[<div class="row">
@@ -122,11 +127,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Mac</title>
-    <url>/posts/20231124185025-2f5ead85.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>PDF文档实现</title>
     <url>/posts/20240315155455-c1a17593.html</url>
     <content><![CDATA[<div class="row">
@@ -142,13 +142,13 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>Windows</title>
-    <url>/posts/20231124185030-2c5abc07.html</url>
+    <title>about</title>
+    <url>/posts/20231123105815-b5f422e3.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>about</title>
-    <url>/posts/20231123105815-b5f422e3.html</url>
+    <title>Windows</title>
+    <url>/posts/20231124185030-2c5abc07.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -212,12 +212,6 @@
       </tags>
   </entry>
   <entry>
-    <title>最新新闻</title>
-    <url>/posts/20231129100146-1dd39950.html</url>
-    <content><![CDATA[<p>首页宣传页面设计</p>
-]]></content>
-  </entry>
-  <entry>
     <title>nginx</title>
     <url>/posts/20231124185014-a477be03.html</url>
     <content><![CDATA[]]></content>
@@ -231,6 +225,12 @@
     <title>power</title>
     <url>/posts/20231124185009-ab8a01a0.html</url>
     <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>最新新闻</title>
+    <url>/posts/20231129100146-1dd39950.html</url>
+    <content><![CDATA[<p>首页宣传页面设计</p>
+]]></content>
   </entry>
   <entry>
     <title>search</title>
