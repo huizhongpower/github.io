@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ACDC</title>
+    <url>/posts/20231228144319-bf049f6.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>ACDC产品推荐</title>
     <url>/posts/20231124171533-62c1eac1.html</url>
     <content><![CDATA[<table>
@@ -40,11 +45,6 @@
       <tags>
         <tag>AC/DC</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>ACDC</title>
-    <url>/posts/20231228144319-bf049f6.html</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>DC-AC 逆变电源</title>
@@ -152,10 +152,20 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>最新新闻</title>
+    <url>/posts/20231129100146-1dd39950.html</url>
+    <content><![CDATA[<p>首页宣传页面设计</p>
+]]></content>
+  </entry>
+  <entry>
     <title>DC/DC模块电源</title>
     <url>/posts/20240319082855-add86e91.html</url>
-    <content><![CDATA[<h3 id="DC-DC-电源模块-HZD20B-系列-说明"><a href="#DC-DC-电源模块-HZD20B-系列-说明" class="headerlink" title="DC-DC 电源模块 HZD20B 系列 说明"></a>DC-DC 电源模块 HZD20B 系列 说明</h3><iframe src="//player.bilibili.com/player.html?aid=1451139610&amp;bvid=BV1Dv421r7ya&amp;cid=1452340346&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800"> 
+    <content><![CDATA[<h3 id="DC-DC-电源模块-HZD20B-系列-说明"><a href="#DC-DC-电源模块-HZD20B-系列-说明" class="headerlink" title="DC-DC 电源模块 HZD20B 系列 说明"></a>DC-DC 电源模块 HZD20B 系列 说明</h3><h4 id="在线宣传视频样式一"><a href="#在线宣传视频样式一" class="headerlink" title="在线宣传视频样式一"></a>在线宣传视频样式一</h4><iframe src="//player.bilibili.com/player.html?aid=1451139610&amp;bvid=BV1Dv421r7ya&amp;cid=1452340346&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800"> 
 </iframe>
+
+<h4 id="在线宣传视频样式二"><a href="#在线宣传视频样式二" class="headerlink" title="在线宣传视频样式二"></a>在线宣传视频样式二</h4><video width="800" height="480" controls="controls" autoplay="autoplay" loop="loop">
+    <source src="https://assets.mixkit.co/videos/preview/mixkit-astronaut-in-a-space-suit-floating-slowly-through-space-above-45204-large.mp4" type="video/mp4">
+</video>
 
 <hr>
 <blockquote>
@@ -212,11 +222,6 @@
       </tags>
   </entry>
   <entry>
-    <title>nginx</title>
-    <url>/posts/20231124185014-a477be03.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>page</title>
     <url>/posts/20231123160548-140ab620.html</url>
     <content><![CDATA[]]></content>
@@ -227,10 +232,9 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>最新新闻</title>
-    <url>/posts/20231129100146-1dd39950.html</url>
-    <content><![CDATA[<p>首页宣传页面设计</p>
-]]></content>
+    <title>nginx</title>
+    <url>/posts/20231124185014-a477be03.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>search</title>
@@ -243,13 +247,13 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>公司新闻</title>
-    <url>/posts/20231124171522-b0b86a43.html</url>
+    <title>产品</title>
+    <url>/posts/20231124171542-d926b11a.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>产品</title>
-    <url>/posts/20231124171542-d926b11a.html</url>
+    <title>公司新闻</title>
+    <url>/posts/20231124171522-b0b86a43.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
