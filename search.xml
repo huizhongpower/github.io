@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>404</title>
-    <url>/posts/20231212155510-22d15618.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>ACDC</title>
-    <url>/posts/20231228144319-bf049f6.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>ACDC产品推荐</title>
     <url>/posts/20231124171533-62c1eac1.html</url>
     <content><![CDATA[<table>
@@ -52,24 +42,31 @@
       </tags>
   </entry>
   <entry>
-    <title>ArchLinux</title>
+    <title>ACDC</title>
+    <url>/posts/20231228144319-bf049f6.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>DC-AC 逆变电源</title>
     <url>/posts/20231124185055-a9ed11e.html</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>DC-AC 逆变电源</category>
+      </categories>
+      <tags>
+        <tag>DC-AC 逆变电源</tag>
+      </tags>
   </entry>
   <entry>
-    <title>CTF</title>
+    <title>定制一体化电源</title>
     <url>/posts/20231124185103-ccf5967e.html</url>
     <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Git</title>
-    <url>/posts/20231221092046-69c3279c.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>HZ</title>
-    <url>/posts/20231129140747-undefined.html</url>
-    <content><![CDATA[]]></content>
+      <categories>
+        <category>定制一体化电源</category>
+      </categories>
+      <tags>
+        <tag>定制一体化电源</tag>
+      </tags>
   </entry>
   <entry>
     <title>Linux</title>
@@ -77,9 +74,26 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>Mac</title>
-    <url>/posts/20231124185025-2f5ead85.html</url>
+    <title>军用模块电源</title>
+    <url>/posts/20231129140747-undefined.html</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>军用模块电源</category>
+      </categories>
+      <tags>
+        <tag>军用模块电源</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>工业级模块电源</title>
+    <url>/posts/20231221092046-69c3279c.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>工业级模块电源</category>
+      </categories>
+      <tags>
+        <tag>工业级模块电源</tag>
+      </tags>
   </entry>
   <entry>
     <title>PDF</title>
@@ -97,6 +111,11 @@
         <tag>AC</tag>
         <tag>DC</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Mac</title>
+    <url>/posts/20231124185025-2f5ead85.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>PDF文档实现</title>
@@ -124,7 +143,7 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>DC-DC 电源模块 HZD20B 系列</title>
+    <title>DC/DC模块电源</title>
     <url>/posts/20240319082855-add86e91.html</url>
     <content><![CDATA[<h3 id="DC-DC-电源模块-HZD20B-系列-说明书"><a href="#DC-DC-电源模块-HZD20B-系列-说明书" class="headerlink" title="DC-DC 电源模块 HZD20B 系列 说明书"></a>DC-DC 电源模块 HZD20B 系列 说明书</h3><hr>
 <blockquote>
@@ -168,7 +187,7 @@
         <category>DC-DC</category>
       </categories>
       <tags>
-        <tag>DC-DC 电源模块 HZD20B 系列</tag>
+        <tag>DC/DC模块电源</tag>
       </tags>
   </entry>
   <entry>
@@ -214,12 +233,12 @@
   </entry>
   <entry>
     <title>北京汇众</title>
-    <url>/posts/20231221090324-404ced5b.html</url>
+    <url>/posts/20231221091018-404ced5b.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>北京汇众</title>
-    <url>/posts/20231221091018-404ced5b.html</url>
+    <url>/posts/20231221090324-404ced5b.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -227,12 +246,9 @@
     <url>/posts/20240226100434-e0b65d9a.html</url>
     <content><![CDATA[<p>企业介绍</p>
 ]]></content>
-      <tags>
-        <tag>news</tag>
-      </tags>
   </entry>
   <entry>
-    <title>最新产品</title>
+    <title>新品</title>
     <url>/posts/20240318174052-12710fb.html</url>
     <content><![CDATA[<p>​</p>
 
@@ -319,10 +335,10 @@ end tell
 <hr>
 <h2 id="​-​-​-​"><a href="#​-​-​-​" class="headerlink" title="​***​*****​- - -​"></a>​<br>***<br>​<br>*****<br>​<br>- - -<br>​</h2>]]></content>
       <categories>
-        <category>DC-DC</category>
+        <category>新品</category>
       </categories>
       <tags>
-        <tag>AC</tag>
+        <tag>新品</tag>
       </tags>
   </entry>
   <entry>
