@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ACDC</title>
+    <url>/posts/20231228144319-bf049f6.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>ACDC产品推荐</title>
     <url>/posts/20231124171533-62c1eac1.html</url>
     <content><![CDATA[<table>
@@ -40,11 +45,6 @@
       <tags>
         <tag>AC/DC</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>ACDC</title>
-    <url>/posts/20231228144319-bf049f6.html</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>DC-AC 逆变电源</title>
@@ -96,11 +96,6 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>Mac</title>
-    <url>/posts/20231124185025-2f5ead85.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>PDF</title>
     <url>/posts/20240108154711-98579906.html</url>
     <content><![CDATA[<div class="row">
@@ -133,6 +128,11 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>Mac</title>
+    <url>/posts/20231124185025-2f5ead85.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>Windows</title>
     <url>/posts/20231124185030-2c5abc07.html</url>
     <content><![CDATA[]]></content>
@@ -143,20 +143,12 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>最新新闻</title>
-    <url>/posts/20231129100146-1dd39950.html</url>
-    <content><![CDATA[<p>首页宣传页面设计</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>page</title>
-    <url>/posts/20231123160548-140ab620.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>DC/DC模块电源</title>
     <url>/posts/20240319082855-add86e91.html</url>
-    <content><![CDATA[<h3 id="DC-DC-电源模块-HZD20B-系列-说明书"><a href="#DC-DC-电源模块-HZD20B-系列-说明书" class="headerlink" title="DC-DC 电源模块 HZD20B 系列 说明书"></a>DC-DC 电源模块 HZD20B 系列 说明书</h3><hr>
+    <content><![CDATA[<h3 id="DC-DC-电源模块-HZD20B-系列-说明书"><a href="#DC-DC-电源模块-HZD20B-系列-说明书" class="headerlink" title="DC-DC 电源模块 HZD20B 系列 说明书"></a>DC-DC 电源模块 HZD20B 系列 说明书</h3><iframe src="//player.bilibili.com/player.html?aid=1451139610&amp;bvid=BV1Dv421r7ya&amp;cid=1452340346&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="600" width="800"> 
+</iframe>
+
+<hr>
 <blockquote>
 <p>HZD20B系列电源模块额定输出功率为20W.</p>
 <blockquote>
@@ -211,13 +203,19 @@
       </tags>
   </entry>
   <entry>
+    <title>最新新闻</title>
+    <url>/posts/20231129100146-1dd39950.html</url>
+    <content><![CDATA[<p>首页宣传页面设计</p>
+]]></content>
+  </entry>
+  <entry>
     <title>nginx</title>
     <url>/posts/20231124185014-a477be03.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>power</title>
-    <url>/posts/20231124185009-ab8a01a0.html</url>
+    <title>page</title>
+    <url>/posts/20231123160548-140ab620.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -226,8 +224,8 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>交流电源</title>
-    <url>/posts/20231125174059-92abde96.html</url>
+    <title>power</title>
+    <url>/posts/20231124185009-ab8a01a0.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -243,6 +241,11 @@
   <entry>
     <title>北京汇众</title>
     <url>/posts/20231221091018-404ced5b.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>交流电源</title>
+    <url>/posts/20231125174059-92abde96.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
