@@ -91,6 +91,26 @@
 ]]></content>
   </entry>
   <entry>
+    <title>DC-AC 逆变电源</title>
+    <url>/posts/20231124185055-a9ed11e.html</url>
+    <content><![CDATA[<h3 id="逆变电源-产品详情"><a href="#逆变电源-产品详情" class="headerlink" title="逆变电源 产品详情"></a>逆变电源 产品详情</h3><hr>
+<h3 id="介绍视频"><a href="#介绍视频" class="headerlink" title="介绍视频"></a>介绍视频</h3><iframe src="https://assets.mixkit.co/videos/preview/mixkit-astronaut-in-a-space-suit-floating-slowly-through-space-above-45204-large.mp4" type="video/mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480" width="800"> 
+</iframe>
+
+
+<video width="800" height="480" controls="controls" autoplay="autoplay" loop="loop">
+    <source src="https://assets.mixkit.co/videos/preview/mixkit-working-in-a-electronics-factory-22033-large.mp4" type="video/mp4">
+</video>
+
+<h3 id="说明文档"><a href="#说明文档" class="headerlink" title="说明文档"></a>说明文档</h3>]]></content>
+      <categories>
+        <category>DC-AC 逆变电源</category>
+      </categories>
+      <tags>
+        <tag>DC-AC 逆变电源</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>定制一体化电源</title>
     <url>/posts/20231124185103-ccf5967e.html</url>
     <content><![CDATA[<h4 id="在线宣传视频样式一"><a href="#在线宣传视频样式一" class="headerlink" title="在线宣传视频样式一"></a>在线宣传视频样式一</h4><video width="800" height="480" controls="controls" autoplay="autoplay" loop="loop">
@@ -138,26 +158,6 @@
       </categories>
       <tags>
         <tag>定制一体化电源</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>DC-AC 逆变电源</title>
-    <url>/posts/20231124185055-a9ed11e.html</url>
-    <content><![CDATA[<h3 id="逆变电源-产品详情"><a href="#逆变电源-产品详情" class="headerlink" title="逆变电源 产品详情"></a>逆变电源 产品详情</h3><hr>
-<h3 id="介绍视频"><a href="#介绍视频" class="headerlink" title="介绍视频"></a>介绍视频</h3><iframe src="https://assets.mixkit.co/videos/preview/mixkit-astronaut-in-a-space-suit-floating-slowly-through-space-above-45204-large.mp4" type="video/mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480" width="800"> 
-</iframe>
-
-
-<video width="800" height="480" controls="controls" autoplay="autoplay" loop="loop">
-    <source src="https://assets.mixkit.co/videos/preview/mixkit-working-in-a-electronics-factory-22033-large.mp4" type="video/mp4">
-</video>
-
-<h3 id="说明文档"><a href="#说明文档" class="headerlink" title="说明文档"></a>说明文档</h3>]]></content>
-      <categories>
-        <category>DC-AC 逆变电源</category>
-      </categories>
-      <tags>
-        <tag>DC-AC 逆变电源</tag>
       </tags>
   </entry>
   <entry>
@@ -209,24 +209,19 @@
       </tags>
   </entry>
   <entry>
-    <title>军用模块电源</title>
+    <title>公司资质商标展示</title>
     <url>/posts/20231129140747-undefined.html</url>
     <content><![CDATA[]]></content>
       <categories>
-        <category>军用模块电源</category>
+        <category>公司资质商标展示</category>
       </categories>
       <tags>
-        <tag>军用模块电源</tag>
+        <tag>公司资质商标展示</tag>
       </tags>
   </entry>
   <entry>
     <title>Linux</title>
     <url>/posts/20231124185020-53d0684b.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Mac</title>
-    <url>/posts/20231124185025-2f5ead85.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -245,6 +240,11 @@
         <tag>AC</tag>
         <tag>DC</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Mac</title>
+    <url>/posts/20231124185025-2f5ead85.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>PDF文档实现</title>
@@ -329,8 +329,8 @@
       </tags>
   </entry>
   <entry>
-    <title>page</title>
-    <url>/posts/20231123160548-140ab620.html</url>
+    <title>nginx</title>
+    <url>/posts/20231124185014-a477be03.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -376,13 +376,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>nginx</title>
-    <url>/posts/20231124185014-a477be03.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>search</title>
-    <url>/posts/20240318192638-b4f0dba7.html</url>
+    <title>page</title>
+    <url>/posts/20231123160548-140ab620.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -411,6 +406,11 @@
     <content><![CDATA[]]></content>
   </entry>
   <entry>
+    <title>search</title>
+    <url>/posts/20240318192638-b4f0dba7.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>北京汇众</title>
     <url>/posts/20231221090324-404ced5b.html</url>
     <content><![CDATA[]]></content>
@@ -420,16 +420,6 @@
     <url>/posts/20240226100434-e0b65d9a.html</url>
     <content><![CDATA[<p>企业介绍</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>联系方式</title>
-    <url>/posts/20231125174109-b4011f8.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>直流电源</title>
-    <url>/posts/20231125174103-8589dd99.html</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>新品</title>
@@ -524,5 +514,15 @@ end tell
       <tags>
         <tag>新品</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>直流电源</title>
+    <url>/posts/20231125174103-8589dd99.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>联系方式</title>
+    <url>/posts/20231125174109-b4011f8.html</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
