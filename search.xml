@@ -12,17 +12,6 @@
       </tags>
   </entry>
   <entry>
-    <title>DC/DC</title>
-    <url>/posts/20240326120148-aa2165b1.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>DC/DC</category>
-      </categories>
-      <tags>
-        <tag>DC/DC</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>DC/AC逆变电源</title>
     <url>/posts/20240326120224-c9d19460.html</url>
     <content><![CDATA[]]></content>
@@ -31,6 +20,27 @@
       </categories>
       <tags>
         <tag>DC/AC逆变电源</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>DC/DC</title>
+    <url>/posts/20240326120148-aa2165b1.html</url>
+    <content><![CDATA[<h2 id="DC-DC-模块电源"><a href="#DC-DC-模块电源" class="headerlink" title="DC/DC 模块电源"></a>DC/DC 模块电源</h2><hr>
+<h3 id="HZD03A-05A系列"><a href="#HZD03A-05A系列" class="headerlink" title="HZD03A 05A系列"></a>HZD03A 05A系列</h3>
+
+	<div class="row">
+    <embed src="/pdf/DCDC模块电源/HZD03A05A系列.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+
+]]></content>
+      <categories>
+        <category>DC/DC</category>
+      </categories>
+      <tags>
+        <tag>DC/DC</tag>
       </tags>
   </entry>
   <entry>
