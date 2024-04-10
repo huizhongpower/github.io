@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>AC/DC</title>
+    <url>/posts/20240326120204-62c1eac1.html</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>AC/DC</category>
+      </categories>
+      <tags>
+        <tag>AC/DC</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>DC/AC逆变电源</title>
     <url>/posts/20240326120224-c9d19460.html</url>
     <content><![CDATA[]]></content>
@@ -55,17 +66,6 @@
       </categories>
       <tags>
         <tag>DC/DC</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>AC/DC</title>
-    <url>/posts/20240326120204-62c1eac1.html</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>AC/DC</category>
-      </categories>
-      <tags>
-        <tag>AC/DC</tag>
       </tags>
   </entry>
   <entry>
